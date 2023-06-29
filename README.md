@@ -58,6 +58,8 @@ To run the portfolio locally and explore the code, follow these steps:
 
 > npm run develop
 
+7. Open a web browser and visit http://localhost:3000
+
 ## [License](#table-of-contents)
 
 This project is licensed under the:
