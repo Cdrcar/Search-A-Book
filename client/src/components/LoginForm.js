@@ -47,7 +47,7 @@ const LoginForm = () => {
       console.error(e);
     }
 
-
+// Clear form
     setUserFormData({
       username: '',
       email: '',
