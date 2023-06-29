@@ -1,4 +1,4 @@
-# Search-A-Book
+# Search a book 📖
 GraphQL API search engine built with Apollo Server.
 
 ## [Table of Contents](#table-of-contents)
