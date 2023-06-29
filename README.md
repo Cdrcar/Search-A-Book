@@ -6,7 +6,7 @@ GraphQL API search engine built with Apollo Server.
 - [Description](#description)
 - [Final Result](#final-result)
 - [Deployment](#deployment)
-- [Technologies] (#technologies)
+- [Technologies](#technologies)
 - [Installation](#installation)
 - [License](#license)
 - [Contact Me](#contact)
