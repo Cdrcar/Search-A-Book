@@ -37,7 +37,7 @@ This is a book search engine web application that allows users to search for boo
 ## [Deployment](#deployment)
 
 This application is deployed on Heroku:
-[Link to web app]()
+[Link to web app](https://search-boook-b1c19fbfc0de.herokuapp.com/)
 
 ## [Installation](#installation)
 
